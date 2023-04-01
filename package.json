@@ -1,0 +1,22 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "Simple testing API for Inventory using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "restapi"
+  ],
+  "author": "dlwhitehurst",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
