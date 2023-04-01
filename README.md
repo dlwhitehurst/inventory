@@ -1,4 +1,4 @@
-# skus 
+# inventory 
 
 ### Project setup
 ```
